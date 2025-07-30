@@ -34,7 +34,7 @@ Easily add to your Xcode project using Swift Package Manager.
 1.  Open your project in Xcode and select "File" > "Add Packages..."
 2.  Paste this repository URL in the search field:
     ```
-    https://github.com/your-username/GazeKit.git
+    https://github.com/ctxzz/GazeKit.git
     ```
 3.  Click "Add Package" to complete the installation.
 
@@ -289,7 +289,7 @@ This repository includes a demo app to try out **GazeKit** features.
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/your-username/GazeKit.git
+    git clone https://github.com/ctxzz/GazeKit.git
     cd GazeKit
     ```
 2.  If you haven't installed [XcodeGen](https://github.com/yonaskolb/XcodeGen), install it via Homebrew:
